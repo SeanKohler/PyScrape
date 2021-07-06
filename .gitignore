@@ -1,0 +1,10 @@
+.idea
+node_modules
+__pycache__
+credentials.py
+website.py
+*.js
+*.sh
+*.exe
+*.bat
+*.json
